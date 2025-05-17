@@ -1,6 +1,5 @@
 package br.com.aulasmockito.demo.resources;
 
-import br.com.aulasmockito.demo.domain.User;
 import br.com.aulasmockito.demo.domain.dto.UserDTO;
 import br.com.aulasmockito.demo.services.UserService;
 import org.modelmapper.ModelMapper;
